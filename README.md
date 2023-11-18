@@ -5,7 +5,7 @@ The goal of this project is to develop a web-scraping tool to extract specific d
 ### Identify Target Websites:
 - List the websites from which data needs to be scraped.
 - Consider the structure and layout of each website to plan the scraping strategy.
-  ### Define Data to Extract:
+### Define Data to Extract:
 - Specify the types of data to be extracted (e.g., text, images, links, etc.).
 - Clearly define the structure of the data to ensure accurate extraction.
 ### Develop Scraping Script:
